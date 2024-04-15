@@ -1,0 +1,28 @@
+#user-image {
+    max-height: 400px;
+    max-width: 100%;
+}
+#user-info
+{
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    margin-top: 10px;
+}
+#user-profile {
+    color:green;
+}
+#skill-short
+{
+    text-align: center;
+}
+#short-skill-span {
+ opacity: 1;
+  transition: opacity 1s; 
+}
+#short-skill-span.fade {
+ opacity: 0;
+}
+.text-align-center {
+    text-align: center
+}
