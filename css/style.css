@@ -26,3 +26,17 @@
 .text-align-center {
     text-align: center
 }
+.description-head{
+    box-sizing: border-box;
+    color: #7171ff;
+    font-weight: bold;
+}
+.description-body {
+    padding-left: 116px;
+}
+#career-objective {
+    margin-top: 40px;
+} 
+.description-body ul > li {
+    list-style-type: square;    
+}
